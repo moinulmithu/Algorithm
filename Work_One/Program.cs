@@ -22,7 +22,7 @@ namespace Work_One
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("Prime number between 0 to n is");
+            Console.WriteLine("Prime number between 0 to n is below");
             for (int i = 0; i <= 10; i++)
             {
                 if(IsPrimeNumber(i) == true)
